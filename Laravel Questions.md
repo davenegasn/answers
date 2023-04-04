@@ -7,6 +7,7 @@
 7. Given the overhead they introduce why would you use Blade components instead of including sub-views?
 
 # Refactor this code
+
 ```php
 // $purchase is an Eloquent model that has item (ie: purchase items) which belong to a product
 $sections = [];
