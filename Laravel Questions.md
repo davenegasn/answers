@@ -8,6 +8,8 @@
 
 # Refactor this code
 
+The purpose of the refactoring is to make the code more readable and, maybe, use features available in Laravel
+
 ```php
 // $purchase is an Eloquent model that has item (ie: purchase items) which belong to a product
 $sections = [];
