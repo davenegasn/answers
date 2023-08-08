@@ -1,3 +1,5 @@
+## !!!! Do not post your replies as comments! Clone the gist and send it to us
+
 1. List the top 3 things you do not like about Laravel
 2. List the top 3 things you like about Laravel
 3. For service providers, what is the difference between boot() and register()?
