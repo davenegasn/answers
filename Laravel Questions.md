@@ -43,7 +43,7 @@ function getMarketplacesStatuses() {
       }
 
       $marketplace['status']                    = $status;
-      $result[$marketplace['marketplace_type']] = $marketplace;
+      $result[$marketplace['type']] = $marketplace;
   }
 
   return $result;
